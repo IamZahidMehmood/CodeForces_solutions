@@ -1,7 +1,5 @@
 #include <iostream>
-// This code is written by Karan Mashru
 using namespace std;
-
 int main() {
     int n, s;
     cin >> n;
@@ -34,4 +32,5 @@ int main() {
 
     return 0;
 }
+
 
